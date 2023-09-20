@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 3rem;
+    padding: 0.1rem 2rem;
+    background-color: rgb(212, 212, 212);
+    margin-bottom: 2rem;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+body,
+h2 {
+    margin: 0;
+}
